@@ -1,5 +1,3 @@
-package com.kunal;
-
 import java.util.Scanner;
 
 public class Prime {
@@ -18,7 +16,7 @@ public class Prime {
                 return;
             }
             c = c + 1;
-            // c++;
+             c++;
         }
         if (c * c > n) {
             System.out.println("Prime");
