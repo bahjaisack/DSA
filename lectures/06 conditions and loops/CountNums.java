@@ -1,5 +1,3 @@
-package com.kunal;
-
 public class CountNums {
     public static void main(String[] args) {
         int n = 45535;
