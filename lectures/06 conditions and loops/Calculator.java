@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        
         int ans = 0;
         while (true) {
             System.out.print("Enter the operator: ");
