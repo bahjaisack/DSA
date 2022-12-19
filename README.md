@@ -1,7 +1,7 @@
 <h1 align="center">i'm bahja</h1>
 <img align="right" alt="coding" width="50%" src="https://avatars.githubusercontent.com/u/115221500?s=400&v=4">
 
-<h3 align="center">this repository consists of lactures and assignments of dsa with konal lessons</h3>
+<h3 align="center">this repository consists of lecctures and assignments of dsa with konal lessons</h3>
 
 - 🌱 I’m currently learning **Dsa with konal**
 
