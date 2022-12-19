@@ -1,5 +1,4 @@
 public class Conditionals {
-
     public static void main(String[] args) {
         
             Syntax of if statements:
